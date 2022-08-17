@@ -1,0 +1,2 @@
+# Countries
+Projemi tamamladım. Bir yerinde sıkıntı yaşıyorum orası da ana ekranda favlamak istediğiniz ülkenin fav simgesi yerine diğer ülkenin fav simgesi dolu oluyor ama favori ekranında favladığınız ülkenin ismi yazmakta o konuda sıkıntı yaşamıyorum.Bir diğer konu da favladığınız ülkeyi fav ekranından çıkarmak için tekrardan ana ekrana gelip favladığınız ülkenin favori tuşuna tekrardan bastıktan sonra o ülkenin favori ekranından kalktığını gözlemleyeceksiniz.Herhangi bir konuda sorunuz olursa lütfen benimle iletişime geçin 
